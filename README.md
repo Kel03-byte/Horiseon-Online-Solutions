@@ -15,6 +15,4 @@ SO THAT our own site is optimized for search engines
 
 I have tidied up the code and css, added alt descriptions to the website images, added a descriptive title to the website and made sure that the relevant links are working as they should be.
 
-<img srce="./Screenshot.png>
-
 URL of website: 
