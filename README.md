@@ -17,4 +17,6 @@ I have tidied up the code and css, added alt descriptions to the website images,
 
 Below is a screenshot and the URL of my deployed website
 
+URL: https://kel03-byte.github.io/Horiseon-Online-Solutions/
+
 ![image](https://user-images.githubusercontent.com/74966801/109587152-889ccc00-7b41-11eb-913e-9714fa9826f5.png)
